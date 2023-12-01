@@ -2,7 +2,7 @@
 
 I'm a passionate learner and developer. Here are a few things about me:
 
-- 🌱 I'm currently learning Unity using C# and TypeScript.
+- 🌱 I'm currently learning Unity C# and TypeScript.
 - 🔧 I enjoy building tools for penetration testing.
 - 🎮 Currently working on a game project.
 
