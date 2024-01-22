@@ -2,31 +2,31 @@
 
 I'm a passionate learner and developer. Here are a few things about me:
 
-- 🌱 I'm currently learning Unity C# and TypeScript.
-- 🔧 I enjoy building tools for penetration testing.
-- 🎮 Currently working on a game project.
+- 🌱 I'm currently diving into Unity C# and TypeScript.
+- 🔧 I enjoy crafting tools for penetration testing.
+- 🎮 Currently immersed in a captivating game project.
 
 ## 🚀 Projects
 
-- **[Easy-Script](https://github.com/Akkislinuxstuff/Easy-Script):**  This tool will make your penetration testing easy.
-- **[My latest android game](https://press-x.itch.io/car-runner):** My latest Android Game.
+- **[Easy-Script](https://github.com/Akkislinuxstuff/Easy-Script):** Simplifying penetration testing.
+- **[My latest Android game](https://press-x.itch.io/car-runner):** Experience my gaming adventure.
 
-Feel free to explore my repositories for more projects and contributions!
+Feel free to explore my repositories for more exciting projects and contributions!
 
 ## 📈 GitHub Stats
 
- <div align="center">
+<div align="center">
   <a href="https://github.com/Akkislinuxstuff">
-    <img src="https://github-readme-stats.vercel.app/api?username=Akkislinuxstuff&show_icons=true&count_private=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Akkislinuxstuff&show_icons=true&count_private=true&theme=dark" width="45%" />
   </a>
   <a href="https://github.com/Akkislinuxstuff">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkislinuxstuff&layout=compact" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkislinuxstuff&layout=compact&theme=dark" width="45%" />
   </a>
 </div>
 <br>
 <div align="center">
   <a href="https://github.com/Akkislinuxstuff">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akkislinuxstuff" width="90%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akkislinuxstuff&theme=dark" width="90%" />
   </a>
 </div>
 
@@ -37,6 +37,3 @@ Feel free to explore my repositories for more projects and contributions!
 - **[Itch.io](https://press-x.itch.io/)**
 
 Don't hesitate to reach out for collaborations or just to say hi! 😊
-
-
-Improve it for dark mode
