@@ -8,25 +8,25 @@ I'm a passionate learner and developer. Here are a few things about me:
 
 ## 🚀 Projects
 
-- **[Easy-Script](https://github.com/Akkislinuxstuff/Easy-Script):**  This tool will make your penetration testing easy.
+- **[Easy-Script](https://github.com/Akkislinuxstuff/Easy-Script):** This tool will make your penetration testing easy.
 - **[My latest android game](https://press-x.itch.io/car-runner):** My latest Android Game.
 
 Feel free to explore my repositories for more projects and contributions!
 
 ## 📈 GitHub Stats
 
- <div align="center">
+<div align="center">
   <a href="https://github.com/Akkislinuxstuff">
-    <img src="https://github-readme-stats.vercel.app/api?username=Akkislinuxstuff&show_icons=true&count_private=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Akkislinuxstuff&show_icons=true&count_private=true&theme=dark" width="45%" />
   </a>
   <a href="https://github.com/Akkislinuxstuff">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkislinuxstuff&layout=compact" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkislinuxstuff&layout=compact&theme=dark" width="45%" />
   </a>
 </div>
 <br>
 <div align="center">
   <a href="https://github.com/Akkislinuxstuff">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akkislinuxstuff" width="90%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akkislinuxstuff&theme=dark" width="90%" />
   </a>
 </div>
 
@@ -37,17 +37,3 @@ Feel free to explore my repositories for more projects and contributions!
 - **[Itch.io](https://press-x.itch.io/)**
 
 Don't hesitate to reach out for collaborations or just to say hi! 😊
-<!--
-**Akkislinuxstuff/Akkislinuxstuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
