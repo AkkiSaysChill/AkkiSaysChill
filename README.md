@@ -31,7 +31,9 @@ Feel free to explore my repositories for more exciting projects and contribution
 </div>
 
 <div align="center">
-  <iframe frameborder="0" src="https://itch.io/embed/2237657?bg_color=000000&amp;fg_color=ffffff&amp;link_color=f24e4b&amp;border_color=4b3a3a" width="552" height="167"><a href="https://press-x.itch.io/car-runner">Car runner by Press-X</a></iframe>
+  <a href="https://press-x.itch.io/car-runner">
+    <img src="https://static.itch.io/images/badge.svg" alt="Play Car Runner">
+  </a>
 </div>
 
 
