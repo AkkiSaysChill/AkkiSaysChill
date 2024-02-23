@@ -36,7 +36,7 @@ Feel free to explore my repositories for more exciting projects and contribution
 
 - [![YouTube](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/channel/UCZ6U1GQS7LT_9PH6M2C2ZvQ) **[YouTube](https://www.youtube.com/channel/UCZ6U1GQS7LT_9PH6M2C2ZvQ)**
 - [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/Abhimanyu__islive) **[Instagram](https://instagram.com/Abhimanyu__islive)**
-- [![Itch.io](https://img.icons8.com/color/48/000000/itch-io.png)](https://press-x.itch.io/) **[Itch.io](https://press-x.itch.io/)**
+- [![Itch.io]()](https://press-x.itch.io/) **[Itch.io](https://press-x.itch.io/)**
 
 Don't hesitate to reach out for collaborations or just to say hi! 😊
 
