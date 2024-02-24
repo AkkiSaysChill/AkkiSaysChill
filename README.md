@@ -21,7 +21,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 
-### I'm a passionate learner and developer. Here are a few things about me:
+## I'm a passionate learner and developer. Here are a few things about me:
 <br>
 
 
