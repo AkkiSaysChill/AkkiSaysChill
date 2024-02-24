@@ -32,8 +32,9 @@
 ## 🚀 Projects
 <br>
 <br>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:250px;height:150px;">
 - **[Easy-Script](https://github.com/Akkislinuxstuff/Easy-Script):** Simplifying penetration testing.
-   <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:250px;height:150px;">
+   
 - **[My latest Android game](https://press-x.itch.io/car-runner):** Experience my gaming adventure.
 
 
