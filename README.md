@@ -16,7 +16,10 @@ I'm a passionate learner and developer. Here are a few things about me:
 Feel free to explore my repositories for more exciting projects and contributions!
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="hehe" style="width:40px;height:20px;"> ##GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="hehe" style="width:40px;height:20px;"> 
+
+## GitHub Stats
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="hehe" style="width:5000px;">
 <br>
 <div align="center">
