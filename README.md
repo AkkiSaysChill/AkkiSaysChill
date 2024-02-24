@@ -60,8 +60,7 @@ Feel free to explore my repositories for more exciting projects and contribution
 
 
 ## 🌐 Connect with Me
-![](https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif)
-- **[Youtube](https://www.youtube.com/channel/UCZ6U1GQS7LT_9PH6M2C2ZvQ)**
+<a href="https://www.youtube.com/channel/UCZ6U1GQS7LT_9PH6M2C2ZvQ"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="YouTube" height="50"></a>
 - **[Instagram](https://instagram.com/Abhimanyu__islive)**
 - **[Itch.io](https://press-x.itch.io/)**
 
