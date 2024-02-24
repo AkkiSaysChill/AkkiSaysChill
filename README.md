@@ -2,11 +2,9 @@
 
 I'm a passionate learner and developer. Here are a few things about me:
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="hehe" style="width:50px;height:50px;">
 
 
-
-- 🌱 I'm currently diving into Unity C# and TypeScript.
+- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="hehe" style="width:20px;height:20px;"> I'm currently diving into Unity C# and TypeScript.
 - 🔧 I enjoy crafting tools for penetration testing.
 - 🎮 Currently immersed in a captivating game project.
 
