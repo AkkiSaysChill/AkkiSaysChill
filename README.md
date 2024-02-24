@@ -5,7 +5,7 @@ I'm a passionate learner and developer. Here are a few things about me:
 
 
 - <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="hehe" style="width:20px;height:20px;"> I'm currently diving into Unity C# and TypeScript.
-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="hehe" style="width:20px;height:20px;">  I enjoy crafting tools for penetration testing.
+- <img src="" alt="hehe" style="width:20px;height:20px;">  I enjoy crafting tools for penetration testing.
 - 🎮 Currently immersed in a captivating game project.
 
 ## 🚀 Projects
@@ -16,7 +16,7 @@ I'm a passionate learner and developer. Here are a few things about me:
 Feel free to explore my repositories for more exciting projects and contributions!
 
 ## 📈 GitHub Stats
-
+![duh](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 <div align="center">
   <a href="https://github.com/Akkislinuxstuff">
     <img src="https://github-readme-stats.vercel.app/api?username=Akkislinuxstuff&show_icons=true&count_private=true&theme=dark" width="20px" height="20px" />
