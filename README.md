@@ -62,8 +62,7 @@ Feel free to explore my repositories for more exciting projects and contribution
 ## 🌐 Connect with Me
 <a href="https://www.youtube.com/channel/UCZ6U1GQS7LT_9PH6M2C2ZvQ"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="YouTube" height="50"></a>
 <a href="https://instagram.com/Abhimanyu__islive"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="YouTube" height="50"></a>
-- **[Instagram](https://instagram.com/Abhimanyu__islive)**
-- **[Itch.io](https://press-x.itch.io/)**
+<a href="https://press-x.itch.io/"><img src="https://github.com/Akkislinuxstuff/Cpp_game/assets/97971429/63ba407b-f6dd-41b6-8bd9-d9acbc3d91aa" alt="YouTube" height="50"></a>
 
 Don't hesitate to reach out for collaborations or just to say hi! 😊
 
