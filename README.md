@@ -19,7 +19,7 @@ Feel free to explore my repositories for more exciting projects and contribution
 
 <div align="center">
   <a href="https://github.com/Akkislinuxstuff">
-    <img src="https://github-readme-stats.vercel.app/api?username=Akkislinuxstuff&show_icons=true&count_private=true&theme=dark" width="10%" height="10%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Akkislinuxstuff&show_icons=true&count_private=true&theme=dark" width="20px" height="20px" />
   </a>
   <a href="https://github.com/Akkislinuxstuff">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkislinuxstuff&layout=compact&theme=dark" width="45%" />
