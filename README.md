@@ -53,13 +53,13 @@ Feel free to explore my repositories for more exciting projects and contribution
 <div align="center">
   
   <a href="https://github.com/Akkislinuxstuff">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkislinuxstuff&layout=compact&theme=dark" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkkiSaysChill&layout=compact&theme=dark" width="45%" />
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/Akkislinuxstuff">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akkislinuxstuff&theme=dark" width="90%" />
+  <a href="https://github.com/AkkiSaysChill">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkkiSaysChill&theme=dark" width="90%" />
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="hehe" style="width:5000px;">
