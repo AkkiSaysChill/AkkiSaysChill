@@ -52,7 +52,7 @@ Feel free to explore my repositories for more exciting projects and contribution
 <br>
 <div align="center">
   
-  <a href="https://github.com/Akkislinuxstuff">
+  <a href="https://github.com/AkkiSaysChill">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkkiSaysChill&layout=compact&theme=dark" width="45%" />
   </a>
 </div>
