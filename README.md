@@ -26,7 +26,7 @@
 
 
 - <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="hehe" style="width:20px;height:20px;"> I'm currently diving into c++.
-- <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="hehe" style="width:20px;height:20px;">  I enjoy games.
+- <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="hehe" style="width:20px;height:20px;">  I enjoy making games.
 - 🎮 Currently immersed in a captivating game project.
 
 ## 🚀 Projects
