@@ -25,16 +25,14 @@
 <br>
 
 
-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="hehe" style="width:20px;height:20px;"> I'm currently diving into Unity C# and FLutter.
-- <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="hehe" style="width:20px;height:20px;">  I enjoy crafting tools for penetration testing.
+- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="hehe" style="width:20px;height:20px;"> I'm currently diving into c++.
+- <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="hehe" style="width:20px;height:20px;">  I enjoy games.
 - 🎮 Currently immersed in a captivating game project.
 
 ## 🚀 Projects
 <br>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:250px;height:150px;">
-
-- **[Easy-Script](https://github.com/Akkislinuxstuff/Easy-Script):** Simplifying penetration testing.
    
 - **[My latest Android game](https://press-x.itch.io/car-runner):** Experience my gaming adventure.
 
