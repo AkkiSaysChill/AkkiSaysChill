@@ -69,6 +69,6 @@ Feel free to explore my repositories for more exciting projects and contribution
 <a href="https://instagram.com/Abhimanyu__islive"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="YouTube" height="50"></a>
 <a href="https://press-x.itch.io/"><img src="https://github.com/Akkislinuxstuff/Cpp_game/assets/97971429/63ba407b-f6dd-41b6-8bd9-d9acbc3d91aa" alt="YouTube" height="50"></a>
 
-Don't hesitate to reach out for collaborations or just to say hi! 😊
+PS: I use arch btw ;)
 
 ![](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
